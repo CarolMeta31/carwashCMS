@@ -1,0 +1,7 @@
+{
+  "name": "carwashCMS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
